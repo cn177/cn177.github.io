@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>互联网垃圾桶</title><link>https://cn177.github.io</link><description>抽象之地  madeby177 感谢Gmeek</description><copyright>互联网垃圾桶</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://www.ntet.cn/uploads/images/20230724/20230724101746_26132.jpg</url><title>avatar</title><link>https://cn177.github.io</link></image><lastBuildDate>Thu, 09 Jan 2025 14:23:38 +0000</lastBuildDate><managingEditor>互联网垃圾桶</managingEditor><ttl>60</ttl><webMaster>互联网垃圾桶</webMaster><item><title>Markdown 测试（以后看到这个记得贴Lables）</title><link>https://cn177.github.io/post/Markdown%20-ce-shi-%EF%BC%88-yi-hou-kan-dao-zhe-ge-ji-de-tie-Lables%EF%BC%89.html</link><description>#好的那么也是又能写 Markdown了 我真是太开心了&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>互联网垃圾桶</title><link>https://cn177.github.io</link><description>抽象之地  madeby177 感谢Gmeek</description><copyright>互联网垃圾桶</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://www.ntet.cn/uploads/images/20230724/20230724101746_26132.jpg</url><title>avatar</title><link>https://cn177.github.io</link></image><lastBuildDate>Tue, 04 Feb 2025 12:02:54 +0000</lastBuildDate><managingEditor>互联网垃圾桶</managingEditor><ttl>60</ttl><webMaster>互联网垃圾桶</webMaster><item><title>关于哪吒——好，但是不是那么好</title><link>https://cn177.github.io/post/guan-yu-na-zha-%E2%80%94%E2%80%94-hao-%EF%BC%8C-dan-shi-bu-shi-na-me-hao.html</link><description>### 观前提醒
+不建议看3D！ 不建议看3D！ 不建议看3D！3D的观感很差，可能是地方电影院的原因，在打斗戏时闪光太强烈，若不是最佳观影位置不建议看3D！
+
+## 剧情——其实还好？
+ps:这条评论含有剧透，不建议未观看前的观众看！
+
+从第一部出发来说，连接的其实很好，开局就是重塑肉身，后续的为敖丙修肉身去考核也很正常，就算是后续的正派转变反派，立场互换都是优秀的剧情，相比之下敖丙和哪吒的形象冲突很鲜明，对第一部来说：很好！但相较来说——结尾申公豹的交易成没成？哪吒修成肉身，第三部哪吒的形象就这样了？三龙如何？第三部很重要，答疑，解虑。</description><guid isPermaLink="true">https://cn177.github.io/post/guan-yu-na-zha-%E2%80%94%E2%80%94-hao-%EF%BC%8C-dan-shi-bu-shi-na-me-hao.html</guid><pubDate>Tue, 04 Feb 2025 12:02:28 +0000</pubDate></item><item><title>Markdown 测试（以后看到这个记得贴Lables）</title><link>https://cn177.github.io/post/Markdown%20-ce-shi-%EF%BC%88-yi-hou-kan-dao-zhe-ge-ji-de-tie-Lables%EF%BC%89.html</link><description>#好的那么也是又能写 Markdown了 我真是太开心了&#13;
 ##太好了太好了&#13;
 ```c++&#13;
 #include&lt;bits/stdc++.h&gt;&#13;
